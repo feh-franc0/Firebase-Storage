@@ -1,0 +1,16 @@
+**FirebaseStorage**
+
+o que é FirebaseStorage:O Cloud Storage para Firebase é um serviço de armazenamento de objetos avançado, simples e econômico criado para a escala do Google. Com os SDKs do Firebase para Cloud Storage, é possível usar a segurança do Google para fazer upload e download de arquivos nos apps do Firebase, independentemente da qualidade da rede
+
+o que não é:Firebase Storage não é a mesma coisa que FirebaseStore
+        FIREBASESTORE->ARMAZENA DADOS 
+        FIREBASESTORAGE->ARMAZENA ARQUIVOS
+
+
+
+PRIMEIRO PASSO; VÁ NO SITE FIREBASE E CRIE UM NOVO PROJETO
+    -COM ESSE NOVO PROJETO CRIADO VÁ AO CANTO ESQUERDA DA TELA PROCURE POR 'STORAGE'
+    -QUANDO ESTIVER NA PAGINA DA 'STORAGE' CLIQUE EM GET-STARTED E IRA COMECAR A CRIAR SEU BUCKET(ESTRUTURA DE ARMAZENAMENTO DOS NOSSOS ARQUIVOS,COMO SE FOSSE O DIRETORIO PRINCIPAL)
+    -NO BUCKET ESTARA TODOS OS NOSSOS ARQUIVOS QUE FIZEMOS UPLOAD
+    -NO BUCKET TEM A PARTE 'RULES' QUE FICA AS REGRAS QUE PODEMOS MODIFICAR-LAS
+    -TAMBEM TEMOS A PARTE 'USAGE' PARA VER UM POUCO DOS DADOS,O QUE JA FOI REQUISITADO,O QUE JA FOI ENVIADO E ALGUMAS OUTRAS COISAS
